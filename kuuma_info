@@ -1,5 +1,6 @@
 ID,CALL,CN,TYPE
 06DDE439,Horma Heikki RAC,EZ,ASG-29
+05465BA0,Hänninen Heimo Cumulus,LK,LS-8
 06465BD2,Jaakkola Aku RAC,W,Ventus-3
 06DDECFD,Kangasniemi Jarkko RAC,KG,ASG-29E
 06D0027B,Kankare Nuutti Cumulus,KX,Ventus-2bx
@@ -7,4 +8,3 @@ ID,CALL,CN,TYPE
 06DDE481,Kuusela Kai RAC,2A,ASG-32MI
 06D01366,Team Sucksdorff RAC,WS,AS-33
 05465BDE,Tourula&Seppänen Cumulus,C9,DG-1000T
-
