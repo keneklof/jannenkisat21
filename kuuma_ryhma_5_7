@@ -1,1 +1,38 @@
-
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="190 Ylane" id="0" comment="" altitude="49.0">
+      <Location longitude="22.4016667" latitude="60.8866667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="127 Kovenlahti" id="0" comment="" altitude="137.0">
+      <Location longitude="22.8397167" latitude="61.9063833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="038 Oripaa" id="0" comment="" altitude="101.0">
+      <Location longitude="22.7438833" latitude="60.8727833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="009 Lietsa" id="0" comment="" altitude="113.0">
+      <Location longitude="24.0166667" latitude="60.82805"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="999 Rayskala_F12" id="0" comment="" altitude="124.0">
+      <Location longitude="24.0977833" latitude="60.7508333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
